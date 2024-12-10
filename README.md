@@ -1,2 +1,2 @@
 # Movie_Matcher
-Matching short movie scenes. Developed as part of CIS-5810.
+Matching movie scenes using AI. Developed as part of CIS-5810.
